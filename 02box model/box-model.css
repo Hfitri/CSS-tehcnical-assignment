@@ -1,0 +1,17 @@
+p {
+    text-decoration-color: #F3F4F6;
+    text-transform: uppercase;
+    font-family: sans-serif;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background: #111827;
+}
+
+div :hover {
+    background-color: #8a8a8a;
+}
+p {
+    color: #F3F4F6;
+}
